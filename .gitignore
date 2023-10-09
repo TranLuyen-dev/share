@@ -1,0 +1,20 @@
+# history pcb
+**/History
+# **/Project Outputs**
+# pcb/*
+# !pcb/Final PCB
+*.mp4
+
+# history code
+**/__history
+*.STA
+*.cof
+*.err
+*.esym
+*.lst
+*.sym
+*.tre
+*.xsym
+# clear old code
+# code/*
+# !code/Final code
